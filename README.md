@@ -5,7 +5,14 @@
 I am a **Senior Software Engineer with 5+ years of experience** building high-scale, enterprise-grade applications. My career is defined by bridging the gap between stable backend architectures (**Java/Spring Boot**) and cutting-edge frontend performance (**Next.js 16/React 19**).
 
 ---
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiman-mumtaz/aiman-mumtaz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiman-mumtaz/aiman-mumtaz/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aiman-mumtaz/aiman-mumtaz/output/github-snake.svg">
+</picture>
 
+---
 ### 🚀 Performance Highlights
 * 💰 **Cost Savings:** Optimized data pipelines at **UnitedHealth Group** (Fortune 500) processing 2TB/day, saving **$500,000+ annually**.
 * ⚡ **Efficiency:** Reduced report integration time by **2 full sprints** through modular architecture design.
