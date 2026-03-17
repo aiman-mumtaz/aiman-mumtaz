@@ -5,7 +5,7 @@
 I am a **Senior Software Engineer with 5+ years of experience** building high-scale, enterprise-grade applications. My career is defined by bridging the gap between stable backend architectures (**Java/Spring Boot**) and cutting-edge frontend performance (**Next.js 16/React 19**).
 
 ---
-### 🐍 My Contribution Snake
+### My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiman-mumtaz/aiman-mumtaz/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiman-mumtaz/aiman-mumtaz/output/github-snake.svg">
@@ -13,14 +13,14 @@ I am a **Senior Software Engineer with 5+ years of experience** building high-sc
 </picture>
 
 ---
-### 🚀 Performance Highlights
-* 💰 **Cost Savings:** Optimized data pipelines at **UnitedHealth Group** (Fortune 500) processing 2TB/day, saving **$500,000+ annually**.
-* ⚡ **Efficiency:** Reduced report integration time by **2 full sprints** through modular architecture design.
-* 🤖 **AI Innovation:** Built a viral **AI-Powered Social Analytics** tool using the Llama 3.3 model and Groq API.
+### Performance Highlights
+*  **Cost Savings:** Optimized data pipelines at **UnitedHealth Group** (Fortune 500) processing 2TB/day, saving **$500,000+ annually**.
+*  **Efficiency:** Reduced report integration time by **2 full sprints** through modular architecture design.
+*  **AI Innovation:** Built a viral **AI-Powered Social Analytics** tool using the Llama 3.3 model and Groq API.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -31,24 +31,24 @@ I am a **Senior Software Engineer with 5+ years of experience** building high-sc
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
-#### 🤖 [LinkedIn Roast](https://github.com/aiman-mumtaz/linkedin-roaster)
+####  [LinkedIn Roast](https://github.com/aiman-mumtaz/linkedin-roaster)
 An AI-powered SaaS that generates savage profile critiques. Built with **Next.js 16**, **React 19**, and **Groq (Llama 3.3)**. Demonstrates high-performance AI integration and modern SSR patterns.
 
-#### 📂 [Enterprise File Validator](https://github.com/aiman-mumtaz/file-validator)
+####  [Enterprise File Validator](https://github.com/aiman-mumtaz/file-validator)
 A robust data-migration framework built with **Python**, **Streamlit**, and **Pandas**. Automates reconciliation for billion-row datasets during legacy-to-modern system transitions.
 
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 ![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiman-mumtaz&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiman-mumtaz&layout=compact&theme=transparent)
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 * **LinkedIn:** [aiman-mumtaz](https://www.linkedin.com/in/aiman-mumtaz)
 * **Email:** [aimanmumtaz001@gmail.com](mailto:aimanmumtaz001@gmail.com)
 
